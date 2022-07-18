@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venom-ltr
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
